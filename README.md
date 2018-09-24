@@ -24,16 +24,16 @@ Next features to be added:
 
 
 
-Contact: 
+**Contact**: 
 
-Twitter - [@binaryedgeio](https://www.twitter.com/binaryedgeio)  
+**Twitter** - [@binaryedgeio](https://www.twitter.com/binaryedgeio)  
 
-Email - support@binaryedge.io
+**Email** - support@binaryedge.io
 
-Slack - Self signup - https://publicslack.com/slacks/40fyio/invites/new
+**Slack - Self signup** - https://publicslack.com/slacks/40fyio/invites/new
 
-URL's:
+#URL's
 
-Product page - <to be added upon release>
+**Product page** - <to be added upon release>
 
-Documentation - https://docs.binaryedge.io/api-v2/
+**Documentation** - https://docs.binaryedge.io/api-v2/
