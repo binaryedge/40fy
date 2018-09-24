@@ -26,7 +26,7 @@ Next features to be added:
 
 If you would like a feature to be added to the platform please follow these steps
 
-**1** - Open issue
+**1** - Open issue on this repository
 
 **2** - Comment as clearly as possible on the feature
 
