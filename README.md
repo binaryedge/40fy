@@ -24,7 +24,7 @@ Next features to be added:
 
 
 
-**Contact**: 
+#**Contact**: 
 
 **Twitter** - [@binaryedgeio](https://www.twitter.com/binaryedgeio)  
 
@@ -32,7 +32,7 @@ Next features to be added:
 
 **Slack - Self signup** - https://publicslack.com/slacks/40fyio/invites/new
 
-#URL's
+#**URL's**
 
 **Product page** - <to be added upon release>
 
