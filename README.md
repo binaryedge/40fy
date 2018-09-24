@@ -26,10 +26,13 @@ Next features to be added:
 
 If you would like a feature to be added to the platform please follow these steps
 
-1 - Open issue
-2 - Comment as clearly as possible on the feature
-3 - You feature will receive comments from community and votes using :thumbs_up: and :thumbs_down:
-4 - When status is given a staff might contact you or comment on it.
+**1** - Open issue
+
+**2** - Comment as clearly as possible on the feature
+
+**3** - You feature will receive comments from community and votes using :thumbs_up: and :thumbs_down:
+
+**4** - When status is given a staff might contact you or comment on it.
 
 
 # Contact 
