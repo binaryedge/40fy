@@ -22,6 +22,14 @@ Next features to be added:
 
 :white_check_mark: **Custom modules for on demand scans** - ability to create modules for services and find a method for deployment of said modules - related to https://github.com/binaryedge/40fy/issues/1 :orange_book:
 
+# Requesting features
+
+If you would like a feature to be added to the platform please follow these steps
+
+1 - Open issue
+2 - Comment as clearly as possible on the feature
+3 - You feature will receive comments from community and votes using :thumbs_up: and :thumbs_down:
+4 - When status is given a staff might contact you or comment on it.
 
 
 # Contact 
