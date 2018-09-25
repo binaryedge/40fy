@@ -45,6 +45,6 @@ If you would like a feature to be added to the platform please follow these step
 
 # URL's
 
-**Product page** - <to be added upon release>
+**Product page** - https://app.binaryedge.io
 
 **Documentation** - https://docs.binaryedge.io/api-v2/
