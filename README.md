@@ -8,13 +8,16 @@ Status symbols:
 
 :orange_book: - accepting comments
 
-Next features to be added:
+Next feature to be added:
+
+white_check_mark: **Subdomains** - https://github.com/binaryedge/40fy/issues/5 :orange_book: :green_book:
+
+
+Backlog:
 
 :white_check_mark: **Domain-IP Resolution** - which domains are associated with ip X ? :green_book:
 
 :white_check_mark: **Sinkhole data** - access to our sinkhole data, which ips are scanners, which payloads, etc... :green_book:
-
-:white_check_mark: **Security Ratings** - what is the security rating of ip X? This will be based on our work on securityratings.io :blue_book:
 
 :white_check_mark: **Entity mapping** - type company name and we find their ip addresses and domains :blue_book:
 
