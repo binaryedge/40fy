@@ -10,7 +10,7 @@ Status symbols:
 
 **Next feature to be added:**
 
-white_check_mark: **Subdomains** - https://github.com/binaryedge/40fy/issues/5 :orange_book: :green_book:
+:white_check_mark: **Subdomains** - https://github.com/binaryedge/40fy/issues/5 :orange_book: :green_book:
 
 
 **Backlog:**
