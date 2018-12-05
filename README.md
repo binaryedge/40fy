@@ -8,12 +8,12 @@ Status symbols:
 
 :orange_book: - accepting comments
 
-Next feature to be added:
+**Next feature to be added:**
 
 white_check_mark: **Subdomains** - https://github.com/binaryedge/40fy/issues/5 :orange_book: :green_book:
 
 
-Backlog:
+**Backlog:**
 
 :white_check_mark: **Domain-IP Resolution** - which domains are associated with ip X ? :green_book:
 
