@@ -10,12 +10,9 @@ Status symbols:
 
 **Next feature to be added:**
 
-:white_check_mark: **Subdomains** - https://github.com/binaryedge/40fy/issues/5 :orange_book: :green_book:
-
+In discussion
 
 **Backlog:**
-
-:white_check_mark: **Domain-IP Resolution** - which domains are associated with ip X ? :green_book:
 
 :white_check_mark: **Sinkhole data** - access to our sinkhole data, which ips are scanners, which payloads, etc... :green_book:
 
