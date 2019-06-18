@@ -14,7 +14,7 @@ In discussion
 
 **Backlog:**
 
-:green_book: New Modules and Types
+:white_check_mark: **New Modules and Types** :green_book:
 
 :white_check_mark: **Entity mapping** - type company name and we find their ip addresses and domains :blue_book:
 
