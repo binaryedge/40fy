@@ -14,7 +14,7 @@ In discussion
 
 **Backlog:**
 
-:white_check_mark: **Sinkhole data** - access to our sinkhole data, which ips are scanners, which payloads, etc... :green_book:
+:green_book: New Modules and Types
 
 :white_check_mark: **Entity mapping** - type company name and we find their ip addresses and domains :blue_book:
 
