@@ -16,7 +16,9 @@ In discussion
 
 :white_check_mark: **New Modules and Types** :green_book:
 
-:white_check_mark: **Entity mapping** - type company name and we find their ip addresses and domains :blue_book:
+:white_check_mark: **Bug Bounty tag** :green_book: https://github.com/binaryedge/40fy/issues/10 https://github.com/binaryedge/40fy/issues/18
+
+:white_check_mark: **Entity mapping V2.0** - type company name and we find their ip addresses and domains :blue_book:
 
 :white_check_mark: **On demand scanning** - ability to launch custom made scans - :orange_book: https://github.com/binaryedge/40fy/issues/1
 
