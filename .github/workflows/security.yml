@@ -1,0 +1,24 @@
+---
+# This calls a shared security workflow which dynamically assesses code security.
+# This workflow is owned by the Coalition AppSec Team;
+# Confluence: https://fiasco.atlassian.net/wiki/spaces/ENG/pages/2876080164/Static+Analysis+Tooling+Integration
+# YAML Documentation: https://github.com/crucible-risk/github-workflows/
+# If there are failures, questions, or issues, please reach out in #help-appsec.
+
+name: "AppSec"
+
+on:
+  push:
+    branches: 
+    - main
+    - master
+    - dev
+  workflow_dispatch:
+
+jobs:
+  analyze_security:
+    uses: crucible-risk/github-workflows/.github/workflows/security_analyze.yml@master
+    secrets:
+      github_pat: ${{ secrets.DEPLOY_USER_PAT }}
+
+#APPSEC_WF:RUN-001
